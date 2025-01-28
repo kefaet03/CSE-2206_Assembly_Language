@@ -1,0 +1,40 @@
+01. Taking input of 2 positive decimal numbers and printing their sum.
+02. Write a program to (a)diplay "?", (b)read three initials, (c)display them in the middle of 11*11
+    box of asterisks, and (d)beep the computer
+03. Write a program to read one of the hex digits A-F, and disply it on the next line in decimal.
+04. Printing all of the ASCII characters on the console.
+05. Read a character, and if it's an uppercase letter, display it.(AND(^))
+06. for(i=0,i<=10,i++)
+       if((i<9 && i>2) || i%3==0)
+           print('Y')
+       else
+           print('N') 
+    implement the above hight level code.
+07. Detecting a single digit Odd or Even.(multiple digit***)
+08. Taking input of a string and then printing them in inverse order.            
+09. In order traversal.
+10. Preorder traversal.
+11. Postorder traversal.
+12. ***Generalize function to take input of decimal and print them on console.
+13. Exchange n th and k th elements of an array.
+14. Take an array of length 10, print their sum.
+15. Take an array of length 4, print the sum of even numbers and odd numbers.
+16. Prompt the user to enter a line of text. On the next ine, display the capital letter 
+    entered that comes first alphabetically and the one that comes last. If no capital letters 
+    are entered, display "no capital letters".
+17. Reversing an array.
+18. Take input of a character string and convert all of the lowercase letter to uppercase letter.
+19. Take an array of length 5, which can have multiple digits. Print the sum of even and odd numbers in console.
+20. Implementation of selection sort.
+21. Inserting an element at any index of an array.
+22. Searching a substring on a string.
+23. Finding average of 3 students on 4 CTs. (2D array)
+24. Find the absolute (|n|) value of n.
+25. Check weather the given string is palindrome or not.
+26. Generate the Fibonacci Sequence up to nth term.(n<=14 for byte operation)
+27. 
+
+
+
+
+
